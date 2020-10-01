@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="background_clr">#1C1C1C</color>
+    <color name="btns">#2A2A2A</color>
+    <color name="xs">#53BAFE</color>
+    <color name="os">#F16363</color>
+    <color name="reset_bts">#228DFF</color>
+</resources>
